@@ -1,12 +1,12 @@
 {
-    "version": "1.21.1",
+    "version": "1.22.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/FrontasticGmbH/frontastic-cli/releases/download/1.21.1/frontastic-cli_1.21.1_windows_amd64.zip",
+            "url": "https://github.com/FrontasticGmbH/frontastic-cli/releases/download/1.22.0/frontastic-cli_1.22.0_windows_amd64.zip",
             "bin": [
                 "frontastic.exe"
             ],
-            "hash": "63f1fe0be9bea2b955676215ee22bb435ac576e5176375f2decc3872d844ea2f"
+            "hash": "54cba9a8e33d09686b018ff0b073d1148920e73cb8027e19ff86fa3c269b6dd3"
         }
     },
     "homepage": "https://frontastic.cloud",
